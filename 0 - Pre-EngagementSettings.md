@@ -33,6 +33,9 @@ run-shell /opt/tmux-logging/logging.tmux
   <p> This will not account for established sessions, only new sessions opened directly to my machine, you can also specify interfaces by appending the -i flag to the end.</p>
   
   <h3><ul>SMB/Samba</ul></h3>
-  <p> Add "min protocol = SMB1" under [global] </p>  
+  <p> Add "min protocol = SMB1" under [global] </p>
+  
+    <h3>Codium</h3>
+    <p>sudo apt update && sudo apt install codium</p>
   </ul>
 </ul>
