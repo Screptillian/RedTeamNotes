@@ -35,7 +35,7 @@ run-shell /opt/tmux-logging/logging.tmux
   <h3><ul>SMB/Samba</ul></h3>
   <p> Add "min protocol = SMB1" under [global] </p>
   
-    <h3>Codium</h3>
-    <p>sudo apt update && sudo apt install codium</p>
+  <h3>Codium</h3>
+  <p>sudo apt update && sudo apt install codium</p>
   </ul>
 </ul>
